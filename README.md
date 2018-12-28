@@ -21,7 +21,7 @@
 ## Screencast
 
 <p align="center"> 
-<img  src="https://github.com/ChinaHackers/LCWaveView/raw/master/Screenshot/Screenshot01.gif" ></p>
+<img  src="https://github.com/ChinaHackers/LCWaveView/raw/master/Screenshot/Screenshot01.gif" width="391" height="795"></p>
 
 
 ### Author
