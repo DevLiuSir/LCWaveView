@@ -9,8 +9,8 @@
 
 
 ![Languages](https://img.shields.io/badge/language-swift%20-orange.svg?style=flat)
-[![Swift Version](https://img.shields.io/badge/swift-4.2+-blue.svg?style=flat)](https://developer.apple.com/swift/)
-![Xcode Version](https://img.shields.io/badge/xcode-10+-yellow.svg)
+[![Swift Version](https://img.shields.io/badge/swift-5.1+-blue.svg?style=flat)](https://developer.apple.com/swift/)
+![Xcode Version](https://img.shields.io/badge/xcode-11+-yellow.svg)
 ![build ](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 ![platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)
 ![GitHub starts](https://img.shields.io/github/stars/ChinaHackers/LCWaveView.svg?style=social&label=Stars)
